@@ -1,0 +1,206 @@
+1. Klavyeden girilen 1-25 arasındaki bir tamsayının faktöriyelini alan programı yazınız.
+
+2. Klavyeden ardı ardına sayı girişi isteyen ve bu sayı 10 ile 15 arasında olmadığı sürece bu işleme devam eden programı yazınız.
+
+3. 1den 25 e kadar olan sayıların kareleri toplamını bulan programı yazınız.
+
+4. Klavyeden 10 tane tamsayı girilmesini isteyen ve bu girilen tamsayılardan kaç tanesinin negatif olduğunu bulan programı yazınız.
+
+5. a,b,ve c klavyeden girilmek üzere, ax2+bx+c=0 şeklindeki bir denklemin köklerini bulan programı yazınız.
+
+6. Klavyeden girilen 1-12 arasındaki tamsayıların hangi aya denk geldiğini bulup ekrana yazan programı yazınız.
+
+7. Dört işleme birer kod numarası vererek, klavyeden girilen iki sayıyı yine klavyeden girilen işlem koduna göre toplayan, çıkaran, çarpan veya bölen programı yazınız.
+
+8. Klavyeden ardı ardına girilen sayıları toplayan ve girilen sayı negatif olduğunda duran programı yazınız.
+
+9. Klavyeden bir not girilmesini isteyen ve bu not 0-49 arasındaysa “Başarısız”, 50-64 arasındaysa “Orta”, 65-84 arasındaysa “İyi”, 85-100 arasındaysa “Çok iyi “ Yazan programı yazınız.
+
+10. Klavyeden girilen iki tamsayıdan büyük olanı bulup ekrana yazdıran programı yazınız.
+
+11. Klavyeden girilen iki pozitif tamsayıdan birincisinin ikincisi cinsinden kuvvetini alan programı hazır fonksiyon kullanmadan yazınız.
+
+12. n! değerini hesaplayan programı yazınız.
+
+13. 1+4+9+ … +100= değerini hesaplayan programı yazınız.
+
+14. Toplama, çıkarama, çarpma ve bölme işlemi yapan ve program yazınız.
+
+15. Saatte ortalama 60 km yol giden bir aracın, klavyeden girilen mesafeyi kaç saatte gideceğini hesaplayan program yazınız.
+
+16. Klavyeden girilen 10 elemanlı bir diziyi büyükten küçüğe doğru sıralayan bir program yazınız.
+
+17. [1-7] arasında girilen sayıya karşılık gelen haftanın gününü veren bir program yazınız.
+
+18. Klavyeden girilen bir sayının sondan kaç basamağının sıfır olduğunu bulan bir program yazınız.
+
+19. Klavyeden girilen iki sayının bölümünü bölme işlem operatörünü kullanmadan gerçekleştiren bir program yazınız
+
+20. Klavyeden girilen sayıya kadar olan sayıların toplamını hesaplayan programı yazınız
+
+21. Verilen dizide aranılan bir elemanın kaç defa tekrar ettiğini bulan bir program yazınız.
+
+22. Klavyeden girilen bir sayının asal sayı olup olmadığını test eden bir fonksiyon yazınız
+
+23. Klavyeden girilen bir integer dizinin en büyük ve en küçük elemanını bulan bir program yazınız.
+
+24. Dışardan girilen N adet tamsayının aritmetik ortalamasını alıp ekrana yazdıran programı C dilinde kodlayınız.
+
+25. Klavyeden rastgele girilen 10 sayıyı okuyup bu sayıları tersten yazdıran bir C programı yazınız?
+
+26. Klavyeden girilen bir metnin uzunluğu bulan bir C programı yazınız?
+
+27. Bir kare matrisin determinantını bulan bir C programı yazınız?
+
+28. Klavyeden girilen bir metni tersten yazdıran bir C programı yazınız?
+
+29. Klavyeden girilen bir cümledeki kelimelerin sadece ilk harflerini yazdıran bir C programı yazınız?
+
+30. Klavyeden girilen bir cümledeki kelimelerin yerini bozmadan tersten yazdıran bir C programı yazınız? ( Örn: Ali Topu At  At Topu Ali )
+
+31. Mevcudu klavyeden girilen bir sınıftaki öğrencilerin sınav sonuçlarını okutan ortalamasını ve en yüksek notu bulan programı yazınız?
+
+32. 25 elemanlı bir dizideki negatif elemanların toplamını bulan programı yazınız?
+
+33. 20 elemanlı bir dizide kaç negatif, kaç pozitif ve kaç tane 0 olduğunu bulan ve ekrana yazdıran programı yaziniz?
+
+34. 50 elemanlı bir dizide değeri 0’dan küçük olanları neg isimli diziye, değeri 0 ya da 0’dan büyük olanları poz isimli diziye aktaran programı yazınız?
+
+35. Eleman sayısı dışarıdan girilen bir dizideki çift olan elemanların ortalamasını bulan programı yazınız?
+
+37. n*n boyutundaki bir dizinin esas köşegeni üzerindeki elemanların ortalamasını ve toplamını bulan programı yazınız?
+
+38. n*n boyutundaki bir matrisin satırlarını ve sütunlarını toplayıp ayrı ayrı sonuçları ekranda gösteren programı yazınız?
+
+39. n*n boyutundaki bir matrisin simetrik olup olmadığını bulan programı yazınız?
+
+40. n*n boyutundaki bir matrisin en büyük elemanını en küçük elemanına böldüren ve sonucunu ekrana yazdıran programı yazınız?
+
+41.Kullanıcını girdiği bir metinde varsa sayısal değerlerin toplamını ekrana yazdıran bir program yazınız. Örneğin; kullanıcı metin olarak “a2s23I” metnini girmiş ise yazdığınız program 2+2+3+1=8 değerini ekrana yazdırsın.
+
+42.Elinizde 6 adet tamsayı olduğunu (Örneğin; 4,8,15,16,23,42) varsayın. Bu sayıların toplamlarını bulun ve sayıların her birinin bulduğunuz toplam değerinin, yüzde kaçına denk geldiğini bulan bir C uygulaması yazınız. Yüzdeleri hesaplarken bölme işlemi sonuçlarını float veya double değişkenlerde depolamaya ve bölme işlemlerindeki küsüratı kaybetmemek için tip dönüşümlerini etkin bir şekilde kullanmaya dikkat ediniz. Bulduğunuz yüzdelerin toplamı 100 sayısını vermesine dikkat ediniz.
+
+43.% operatörünü kullanarak kullanıcının girdiği bir sayının tek sayı mı yoksa çift sayı mı olduğunu ekrana yazdıran bir program yazınız.
+
+44.Kullanıcının girdiği iki sayıyı birbirine bölen ve bölümle birlikte kalanı ekrana yazdıran bir program yazınız.
+
+45.Sırasıyla 10 elemanlı bir float dizisi oluşturan Diziye statik değerler atayan ve bu değerlerin toplamını bir döngü yardımı ile hesaplayan bir program yazınız.
+
+46.Aşağıdaki işlemleri yapan bir program yazınız.
+5 elemanlı bir tamsayı dizisi oluşturunuz
+Her bir eleman değerini bir döngü yardımı ile kullanıcıdan okuyunuz.
+Kullanıcı bütün değerlerin girişini yaptıktan sonra dizideki tek ve çift sayıları ekrana yazdırınız.
+Örneğin kullanıcı 20,25,8,9,41 değerlerini girmiş olsun. Program çıktısı aşağıdaki gibi olmalıdır.
+Program Çıktısı:
+Tek Sayılar: 25,9,41
+Cift Sayılar: 20,8
+
+47.sayilar dizisi aşağıdaki gibi olsun:
+Sayilar (25,22,17,19,47,3,98,5,124,10)
+Yukarıdaki diziyi tanımlayan ve kullanıcının girdiği sayıdan büyük olan bütün dizi elemanlarını ekrana yazdıran bir program yazınız.
+
+48. Sayilar (25,22,17,19,47,3,98,5,124,10) dizisini tanımladıktan sonra kullanıcıdan bir sayı isteyen ve kullanıcının girdiği sayıya kalansız olarak bölünen bütün sayılar dizisi elemanlarını ekrana yazdıran bir program yazınız. Örneğin; kullanıcı 5 değerini girerse, programınız ekrana 5 sayısının katı olan 25,5 ve 10 değerlerini basmalıdır.
+
+49. Sayilar (25,22,17,19,47,3,98,5,124,10) bu dizi için aşağıdaki işlemleri yapan bir program yazınız.
+Kullanıcıdan 1 ile 10 arasında bir sayı isteyiniz.
+Kullanıcı N değerini girmiş ise programınız dizideki en küçük N. Sayıyı ekrana yazdırsın. Örneğin; kullanıcı 2 sayısını girdiğinde programınız dizideki en küçük ikinci sayı olan 5 sayısını ekrana yazdırsın. Kullanıcı 10 değerini girmiş ise
+
+dizideki en büyük sayı olan 124 değeri ekrana basılsın.
+
+50.Aşağıdaki 3×3 matrisi oluşturan bir program yazınız ve bir döngü yardımıyla matrisin içeriğini konsola yazınız.
+3  5  6
+4  2  3
+4  8  7
+
+51.Eleman değerlerini kullanıcının girdiği 3×3’lük bir matrisin satır ve sütun toplamlarını bulan bir program yazınız. Örneğin;
+1 nolu satır toplamı: 14
+2 nolu satır toplamı: 9
+3 nolu satır toplamı: 19                                                                                                      
+1 nolu sütun toplamı: 11
+2 nolu sütun toplamı: 15
+3 nolu sütun toplamı: 16
+
+52.Sadece döngüleri kullanarak aşağıdaki değerlere sahip 5×5 lik bir matris oluşturan ve matrisin içeriğini konsola yazdıran bir program yazınız.
+1  0  0  0  0
+0  1  0  0  0
+0  0  1  0  0
+0  0  0  1  0
+0  0  0  0  1
+
+53.Sadece döngüleri kullanarak aşağıdaki değerlere sahip 5×5 lik bir matris oluşturan ve matrisin içeriğini konsola yazdıran bir program yazınız.
+1   0    0    0   0
+1   1    0    0   0
+1   1    1    0   0
+1   1    1    1   0
+1   1    1    1   1
+
+54.Sadece döngüleri kullanarak aşağıdaki değerlere sahip 5×5 lik bir matris oluşturan ve matrisin içeriğini konsola yazdıran bir program yazınız.
+1  0  0  0  0
+1  2  0  0  0
+1  2  3  0  0
+1  2  3  4  0
+1  2  3  4  5
+
+55.Sadece döngüleri kullanarak aşağıdaki değerlere sahip 5×5 lik bir matris oluşturan ve matrisin içeriğini konsola yazdıran bir program yazınız.
+1  0  1  0  1
+1  0  1  0  1
+1  0  1  0  1
+1  0  1  0  1
+1  0  1  0  1
+
+56.Sadece döngüleri kullanarak aşağıdaki değerlere sahip 5×5 lik bir matris oluşturan ve matrisin içeriğini konsola yazdıran bir program yazınız.
+1   1   1   1   1
+1   0   1   0   1
+1   1   1   1   1
+1   0   1   0   1
+1   1   1   1   1
+
+57.Sıralı arama (sequential search) algoritmasını iki boyutlu diziler (matrisler) üzerinde yapan bir program yazınız. Programın başında 4×4 lük bir matris oluşturduktan sonra bu matrisi rastgele statik değerler atayınız. Kullanıcıdan aradığı sayı için giriş yapmasını isteyiniz ve bu sayının matrisi olup olmadığını sıralı arama yöntemi ile bulunuz. Arama yaparken ilk önce matrisin ilk satırına bakıp daha sonra ikinci satıra geçiniz ve soldan sağa doğru olması kaydı ile bütün satırları dolaşınız. Eğer matrisin herhangi bir elemanı aranan değeri içeriyorsa bu elemanın indislerini ekrana yazdırınız.
+
+58.İki tam sayıdan (integer) küçük olanını ve büyük olanını bulan iki fonksiyon yazınız. Küçük sayıyı bulan fonksiyonunuzun adı minimum olsun. Büyük sayıyı bulan maksimum olsun. Benzer şekilde aynı işlemi double sayılar için yapan iki adet fonksiyon daha yazınız.
+
+59.Kendisine verilen bir parametrenin karesini bulan karebul isimli bir fonksiyon yazınız. Fonksiyonun protopi aşağıdaki gibi olabilir.
+İnt karebul(int sayi);
+
+60.Kendisine gelen iki parametreye göre ilk sayının ikinci sayı cinsinden kuvvetini isteyen bir fonksiyon yazınız.Örneğin; fonksiyon parametreleri 5 ve 2 ise fonksiyon 25 değerini hesaplasın. Fonksiyon prototipi aşağıdaki gibi olabilir.
+İnt kuvvetHesapla(int sayi , int kuvvet);
+
+61.Yarıçapı verilen bir dairenin çevresi ve alanını bulan çevrehesapla ve alanhesapla isimli iki adet fonksiyon yazınız. Fonksiyonların prototipleri aşağıdaki gibi olabilir.
+double cevreHesapla(double yaricap);
+double alanHesapla(double yaricap);
+
+62. Kendisine parametre olarak verilen bir sayının asal sayı olup olmadığını bulan bir program yazınız.Bu fonksiyon eğer parametre olarak gelen sayı asal ise 1 değerini döndürsün, değil ise 1’den farklı bir değer döndürsün.(0 veya -1 olabilir).Fonksiyonun adı asalSayiMi olsun. Fonksiyon prototipi aşağıdaki gibi olabilir.
+İnt asalSayiMi(int sayi);
+
+63.Kendisine parametre olarak verilen 2’den büyük pozitif bir sayıya kadar olan tüm asal sayıları yazdıran bir fonksiyon yazınız.
+
+64.Tek boyutlu bir dizideki tüm elemanların toplamını veren bir fonksiyon yazınız. Fonksiyon diziyi ve dizinin eleman sayısını parametre olarak alsın. Fonksiyon prototipi aşağıdaki gibi olabilir.
+İnt topla(int[] dizi, int elemanSayisi); 
+
+65.Tek boyutlu dizideki en büyük ve en küçük elemanı bulacak iki adet fonksiyon yazınız.Fonksiyonların prototipleri aşağıdaki gibidir.
+İnt enKucukElemanBul (int[] dizi, int elemanSayisi);
+İnt enBuyukElemaniBul (int[] dizi, int elemanSayisi);
+ 
+66.Tek boyutlu bir dizideki N. Elemanı bulan bir fonksiyon yazınız. Eğer N değeri 5 ise fonksiyonunuz en küçük 5. Elemanı bulsun. .Fonksiyon prototipi aşağıdaki gibidir.
+İnt enKucukNinciElemaniBul (int [] dizi, int elemanSayisi,int n);
+
+67.Kendisi ve boyutları bilinen matrisin tüm elemanlarının toplamını veren bir fonksiyon yazınız. 5 sütündan oluşan bir matris için fonksiyonun prototipi aşağıdaki gibi olabilir.
+İnt enKucukElemaniBul (int matris[][5] , int satir, sutun);
+
+68.5*5 lik bir matrisin satır ve sütun toplamlarını ekran yazdıran bir program yazınız
+
+69. Kendisine parametre olarak verilen 3X3 lük matrisin elemanlarını büyükten küçüğe doğru sıralayan bir fonksiyon yazınız.Matrisin sol üst köşesi en büyük sayıyı içermelidir. Sağ alt köşesi ise en küçük sayıyı içermelidir.
+18   12    11
+9    8     5
+3    2     0
+void matrisSirala (int mat[3][3]);
+
+*** 70.Aşağıdaki seriye fiboniacci serisi adı verilir. Bu serinin ilk iki elemanı 1 değerine sahiptir. İkinci elemandan sonra gelen herbir eleman kendisinden önce gelen 2 sayının toplamı olarak hesaplanır.
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89 , . . .
+Bu serideki N. Elemanı döngü yardımıyla hesaplayan bir fiboniacci isimli bir fonksiyon yazınız. Bu fonksiyona N parametresini gönderdiğimizde serideki N. Elemanı bize döndürsün. 
+
+
+
+
+
+

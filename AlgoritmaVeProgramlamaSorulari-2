@@ -1,0 +1,23 @@
+1.a[]={2,3,8,5,3,6,2,1,9,8,2} dizisinde kaç adet 2 vardır, program yazarak bulunuz.
+
+2. Yukarıdaki dizinin her farklı elemanından kaç adet vardır, program yazarak bulunuz.
+Örneğin a dizisi için:
+2’den 3 adet
+3’den 2 adet
+8’den 2 adet
+5’den 1 adet
+6’dan 1 adet
+1’den 1 adet
+9’dan 1 adet
+
+3. Değerleri 15-45 arası olan  20 elemanlı rastgele bir dizi(bir boyutlu) üretiniz.  Bu dizide 30’dan küçük eleman sayısını hesaplayınız.
+
+4. Bir ligdeki futbol takımlarının oynadığı maçları tutan iki boyutlu bir dizi oluşturunuz. Takım sayısı kadar satır olsun. x sütun olsun. Birinci sütun, takim no, ikinci sütundan itibaren oynanan maç skorları yer almaktadır. Bir takımın kazandığı maç için(3), kaybettiği için(0) ve berabere kaldığı maç için(1) puan alacaktır. Bu şekilde önce kaç takım(T) ve kaç maç oynandığını dışarıdan alan(MS), daha sonra, herbir takım için maç sayısı kadar sonucu kullanıcıdan isteyen ve bu sonuçlara göre bir dizi oluşturan, sonuç olarak her takımın kaç puanı olduğunu takım isimlerine göre yazdıran bir program yapınız. Takım isimlerini de ayrıca tek boyutlu bir char dizi olarak dışardan okuyacak ve sonuçları yazarken ekranda gösterecek.
+Örnek:
+Fenerbahçe   55
+Galatasaray  54
+………………..
+
+5. Bir fonksiyonun türevinin formülü aşağıda verilmiştir. Bu formüle göre f(x)=x2+5x+10 fonksiyonunu ve türev fonksionunu tanımlayarak(iki fonksiyon yazılacak)  x=2  ve h=0.01 için türevini hesaplayınız. Tüm değişkenler double olarak tanımlanacak.
+
+6- Sıralı iki diziyi birleştirerek yine sıralı bir dizi haline getiren programın akış şemasını çiziniz. C++ dilinde kodlayınız. Örneğin:A[3]={4, 7, 10}, B[4]={1,2,8,17} C[7]={1,2,4,7,8,10,17}
